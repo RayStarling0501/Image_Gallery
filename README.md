@@ -8,6 +8,7 @@
   - CSS 외부 링크 🛴
   - 특수 효과
 - 깃으로 관리 😳
+- 깃허브 페이지 사용해서 배포(Deploy)함
 
 배포링크
 [이미지 갤러리](https://raystarling0501.github.io/Image_Gallery/)
