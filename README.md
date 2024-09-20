@@ -9,5 +9,5 @@
   - 특수 효과
 - 깃으로 관리 😳
 
-구글링크
-[Google](http://google.com)
+배포링크
+[이미지 갤러리](https://raystarling0501.github.io/Image_Gallery/)
